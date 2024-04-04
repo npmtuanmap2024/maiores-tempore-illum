@@ -1,18 +1,64 @@
 {
-  "name": "@utilcode/simple-template-advanced",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "name": "@npmtuanmap2024/maiores-tempore-illum",
+  "version": "v1.0.0",
+  "description": "Cleans/removes tracking or garbage parameters from URLs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "keywords": [
+    "tidy",
+    "clean",
+    "sanitize",
+    "url",
+    "website",
+    "tracking",
+    "remove",
+    "junk"
+  ],
+  "author": "tuan149",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+  "devDependencies": {
+    "@types/node": "^14.17.0",
+    "@typescript-eslint/eslint-plugin": "^5.17.0",
+    "@typescript-eslint/parser": "^5.17.0",
+    "eslint": "^8.12.0",
+    "prettier": "^2.3.0",
+    "ts-loader": "^9.2.8",
+    "typescript": "^4.2.4",
+    "webpack": "^5.90.3",
+    "webpack-cli": "^5.1.4"
   },
   "dependencies": {
-    "axios": "^1.6.8"
-  }
+    "@npmtuanmap2024/accusamus-doloremque-quos": "^v1.0.0",
+    "@npmtuanmap2024/adipisci-quaerat-iure": "^v1.0.0",
+    "@npmtuanmap2024/alias-odio-veniam": "^v1.0.0",
+    "@npmtuanmap2024/assumenda-officia-consequatur-in": "^v1.0.0",
+    "@npmtuanmap2024/commodi-dignissimos-officiis": "^v1.0.0",
+    "@npmtuanmap2024/commodi-neque-veritatis": "^v1.0.0",
+    "@npmtuanmap2024/dolores-quas-facilis": "^v1.0.0",
+    "@npmtuanmap2024/error-repudiandae-asperiores": "^v1.0.0",
+    "@npmtuanmap2024/eveniet-consectetur-fuga-magni": "^v1.0.0",
+    "@npmtuanmap2024/expedita-ex-atque": "^v1.0.0",
+    "@npmtuanmap2024/facere-facilis-blanditiis": "^v1.0.0",
+    "@npmtuanmap2024/inventore-delectus-corporis": "^v1.0.0",
+    "@npmtuanmap2024/ipsam-tempora-nisi-omnis": "^v1.0.0",
+    "@npmtuanmap2024/iusto-mollitia-voluptatem": "^v1.0.0",
+    "@npmtuanmap2024/maiores-eaque-est-tempora": "^v1.0.0",
+    "@npmtuanmap2024/molestias-sequi-enim": "^v1.0.0",
+    "@npmtuanmap2024/psychic-dollop": "^1.0.0",
+    "@npmtuanmap2024/quos-amet-ipsum": "^v1.0.0",
+    "@npmtuanmap2024/quos-id-labore": "^v1.0.0",
+    "@npmtuanmap2024/reiciendis-eos-magnam": "^v1.0.0",
+    "@npmtuanmap2024/saepe-quia-voluptates": "^v1.0.0",
+    "@npmtuanmap2024/voluptate-placeat-ea": "^v1.0.0",
+    "@npmtuanmap2024/voluptatibus-officia-fugit": "^v1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npmtuanmap2024/maiores-tempore-illum.git"
+  },
+  "homepage": "https://github.com/npmtuanmap2024/maiores-tempore-illum/#readme",
+  "bugs": {
+    "url": "https://github.com/npmtuanmap2024/maiores-tempore-illum/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
